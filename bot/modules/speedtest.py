@@ -22,7 +22,7 @@ def speedtst(update, context):
         f"{speed_convert(result['download'])}\n"
         "🔺 Kecepatan Upload : "
         f"{speed_convert(result['upload'])}\n"
-        "📶 Kekuatan Jaringan : "
+        "🕞Ping 📶Jaringan : "
         f"{result['ping']}\n"
         "🏬 Server yang digunain : "
         f"{result['client']['isp']}",
