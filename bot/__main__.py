@@ -102,6 +102,8 @@ def bot_help(update, context):
 /{BotCommands.SpeedCommand} : Cek kecepatan internet
 
 /{BotCommands.CloneCommand} : Clone link Google Drive
+
+/{BotCommands.deleteCommand} : hapus
 '''
     sendMessage(help_string, context.bot, update)
 
