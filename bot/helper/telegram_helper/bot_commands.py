@@ -11,10 +11,10 @@ class _BotCommands:
         self.StatusCommand = 'status'
         self.AuthorizeCommand = 'authorize'
         self.UnAuthorizeCommand = 'unauthorize'
-        self.PingCommand = 'ping'
+        self.PingCommand = 'cok'
         self.RestartCommand = 'restart'
         self.StatsCommand = 'stats'
-        self.HelpCommand = 'tulung'
+        self.HelpCommand = 'tolongg'
         self.LogCommand = 'log'
         self.CloneCommand = "kelon"
         self.WatchCommand = 'nonton'
